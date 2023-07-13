@@ -1,4 +1,4 @@
-name: "QMK Keyboard firmware build"
+name: "QMK Keyboard firmware build (extended)"
 description: "Build QMK firmware using github actions"
 inputs:
   keymap-path:
